@@ -1,0 +1,55 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Logistic Regression": {
+      "test_accuracy": 0.9479,
+      "test_macro_f1": 0.9479,
+      "cv_macro_f1": 0.9489
+    },
+    "Decision Tree": {
+      "test_accuracy": 0.8056,
+      "test_macro_f1": 0.8072,
+      "cv_macro_f1": 0.7933
+    },
+    "Random Forest": {
+      "test_accuracy": 0.934,
+      "test_macro_f1": 0.9339,
+      "cv_macro_f1": 0.9239
+    }
+  },
+  "features": [
+    "education_level",
+    "cgpa",
+    "python",
+    "java",
+    "sql",
+    "statistics",
+    "machine_learning",
+    "data_visualization",
+    "web_development",
+    "cybersecurity",
+    "cloud",
+    "design",
+    "communication",
+    "analytical_thinking",
+    "creativity",
+    "problem_solving",
+    "research_interest",
+    "business_interest",
+    "design_interest",
+    "security_interest",
+    "infrastructure_interest"
+  ],
+  "classes": [
+    "Business Analyst",
+    "Cloud Engineer",
+    "Cybersecurity Analyst",
+    "Data Analyst",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Software Developer",
+    "UI/UX Designer"
+  ],
+  "dataset_rows": 1440,
+  "data_note": "Synthetic demonstration dataset; not validated for real career guidance."
+}

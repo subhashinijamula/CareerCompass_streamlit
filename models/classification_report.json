@@ -1,0 +1,63 @@
+{
+  "Business Analyst": {
+    "precision": 0.9459459459459459,
+    "recall": 0.9722222222222222,
+    "f1-score": 0.958904109589041,
+    "support": 36.0
+  },
+  "Cloud Engineer": {
+    "precision": 0.9722222222222222,
+    "recall": 0.9722222222222222,
+    "f1-score": 0.9722222222222222,
+    "support": 36.0
+  },
+  "Cybersecurity Analyst": {
+    "precision": 1.0,
+    "recall": 0.9722222222222222,
+    "f1-score": 0.9859154929577465,
+    "support": 36.0
+  },
+  "Data Analyst": {
+    "precision": 0.9714285714285714,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9577464788732394,
+    "support": 36.0
+  },
+  "Data Scientist": {
+    "precision": 0.868421052631579,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.8918918918918919,
+    "support": 36.0
+  },
+  "Machine Learning Engineer": {
+    "precision": 0.9117647058823529,
+    "recall": 0.8611111111111112,
+    "f1-score": 0.8857142857142857,
+    "support": 36.0
+  },
+  "Software Developer": {
+    "precision": 0.9444444444444444,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9444444444444444,
+    "support": 36.0
+  },
+  "UI/UX Designer": {
+    "precision": 0.972972972972973,
+    "recall": 1.0,
+    "f1-score": 0.9863013698630136,
+    "support": 36.0
+  },
+  "accuracy": 0.9479166666666666,
+  "macro avg": {
+    "precision": 0.9483999894410111,
+    "recall": 0.9479166666666666,
+    "f1-score": 0.9478925369444856,
+    "support": 288.0
+  },
+  "weighted avg": {
+    "precision": 0.9483999894410111,
+    "recall": 0.9479166666666666,
+    "f1-score": 0.9478925369444856,
+    "support": 288.0
+  }
+}
